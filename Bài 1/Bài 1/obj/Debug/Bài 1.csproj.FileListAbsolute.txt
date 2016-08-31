@@ -1,0 +1,6 @@
+c:\users\loc\documents\visual studio 2012\Projects\Bài 1\Bài 1\bin\Debug\Bài 1.exe.config
+c:\users\loc\documents\visual studio 2012\Projects\Bài 1\Bài 1\bin\Debug\Bài 1.exe
+c:\users\loc\documents\visual studio 2012\Projects\Bài 1\Bài 1\bin\Debug\Bài 1.pdb
+c:\users\loc\documents\visual studio 2012\Projects\Bài 1\Bài 1\obj\Debug\Bài 1.csprojResolveAssemblyReference.cache
+c:\users\loc\documents\visual studio 2012\Projects\Bài 1\Bài 1\obj\Debug\Bài 1.exe
+c:\users\loc\documents\visual studio 2012\Projects\Bài 1\Bài 1\obj\Debug\Bài 1.pdb
